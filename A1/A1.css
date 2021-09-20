@@ -1,0 +1,18 @@
+body {
+   background-color: beige; 
+}
+
+h1 {
+    color: orange;
+}
+
+.student {
+    border: 5px outset black;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.cases {
+    color: red;
+    font-size: 2em;
+}
